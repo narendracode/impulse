@@ -1,0 +1,29 @@
+1.1 - Changes made by Christian Bloch (www.hdrlabs.com)
+UBB code added and auto-select text on all code fields
+support for spaces in filenames and capital extensions
+included direct link encoding for subdirectories
+(the > sign next to each folder gives you the link)
+contributed a dark skin
+
+1.0.2 - Fixed the display of swfs so that they display at the correct 
+size, thanks to Jes˙s Cuadra ( http://www.lavidadelosgorilas.org/ )
+who pointed out that getimagesize works on swf files.
+
+1.0.1 - Changed # hrefs to javascript:voids to stop jumping of the page 
+in long file listings.
+
+1.0 - search feature added, sorting of file display based on prefs,
+nicer semantic xhtml markup with a lot of help from David Elstob 
+(http://davidelstob.co.uk), script triggers moved to namespaced JS class.
+Basically it should now be secure, fast and useful.
+
+
+0.9.5 - 27 June 2005
+Security patch. Thanks to Sergi Meseguer (http://meddle.dzygn.com) for 
+pointing it out!
+
+0.9.4 - 05 June 2005
+rewrote a lot of the Ajax stuff as it wasn't properly asynchronous before
+added busy status (#busy and #overDiv classes in the css and busy.gif and 
+busy_bg.gif added to the icons folder).
+

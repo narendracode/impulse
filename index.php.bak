@@ -1,0 +1,154 @@
+<?php include_once 'scripts/checkuserlog.php';?>
+
+<?php $contenthead='
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <title>Impulse-2011 ,Technical Festival of Rungta College of Rungta College of Engineering and Technology,Bhilai(C.G.)</title>
+        <META NAME="Keywords" CONTENT="Impulse-2011, Technical Festival, Rungta College of Rungta College of Engineering and Technology,Bhilai(C.G.),RCET,Bhilai(C.G.)">
+        <META NAME="Description" CONTENT="Impulse-2011 ,Technical Festival of Rungta College of Rungta College of Engineering and Technology,Bhilai(C.G.)">
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <script src="script/prototype.js" type="text/javascript"></script>
+        <script src="script/effects.js" type="text/javascript"></script>
+        <script src="script/dragdrop.js" type="text/javascript"></script>
+        <script src="script/popup.js" type="text/javascript"></script>
+        <script language="javascript" type="text/javascript">
+            function clearText(field)
+            {
+                if (field.defaultValue == field.value) field.value = "";
+                else if (field.value == "") field.value = field.defaultValue;
+
+            }
+        </script>
+        <script type="text/javascript">
+            var image1=new Image()
+            image1.src="banners/1.jpg"
+            var image2=new Image()
+            image2.src="banners/2.jpg"
+            var image3=new Image()
+            image3.src="banners/3.jpg"
+        </script>
+    </head>
+
+    <body>
+
+
+
+
+
+        <div id="header">
+            <span class="logo">Techfest,Rungta College of Engineering and Technology,Bhilai(C.G.) </span>																																												<div class="inner_copy"><a href="http://www.impulse2011.in/"></a><a href="http://www.impulse2011.in/">free CSS templates</a></div>
+            <div id="fb_like">
+                <a href="http://www.twitter.com/ea_impulse2011"><img src="http://twitter-badges.s3.amazonaws.com/t_logo-c.png" alt="Follow ea_impulse2011 on Twitter"/></a>
+                <br> <br>
+                <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.impulse2011.in&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+            </div>
+
+
+'; ?>
+
+
+<?php print"$contenthead";?>
+<?php print"$logOptions"; ?>
+
+
+
+
+
+<div class="post">
+                    <h2>Impulse</h2>
+                    <div><span class="date">.....</span><span class="categories">Impulse-2011</span></div>
+                    <div class="description">
+                        <p><img src="images/pic1.jpg" alt="" width="239" height="232" />
+					Each one of us has much more hidden inside us than we have a chance to explore .Unless we create an environment that enables us to discover the limits of our potential ,we will never know what we have inside of us..
+                                        <br> -Professor Muhammad Yunus<br> <br>
+
+                            EA & Rungta College of Engineering and Technology,Bhilai(C.G.) proudly presents Impulse –A National Level Event, the first event of its kind in the central India. It is, in other words, the search for the most talented and capable students in various fields of India.
+
+                            From March 13th to 14th, Impulse 2011 in Collaboration with the EA & RCET will hold a competition for Indian Students, challenging them to formulate ideas for new technologies, creative designs of bots and many more that would tackle real challenges in India. The aim of the contest is to hunt for some of the most talented students of India.
+                    </div>
+
+                </div>
+                <div class="post">
+                    <h2>How the contest works?</h2>
+                    <div><span class="date">.....</span><span class="categories">Impulse-2011</span></div>
+                    <div class="description">
+                        <p>The contest is open to all Indian University students. If you are interested, please register online before March 5, 2011 on the website: www.impulse2011.in, by clicking on the link 'Register' on the left. After registration you can participate in any of the events scheduled to be held at Impulse-2011.
+
+The Applicant Access will allow candidates to upload and send their first round entries to the contest. The contest will be split into 3 parallel events.
+ </div>
+
+                </div>
+            </div>
+            <div id="sidebar">
+                <div id="search">
+                    <table>
+                        <tr>
+                            <td>
+                                &nbsp;	&nbsp;	&nbsp;
+                            </td>
+                            <td>
+                                <!-- Facebook Badge START --><a href="http://www.facebook.com/pages/Impulse-2011/196829293678028" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="KillerMobi"><img src="images/fblogo.png" /></a>
+                                &nbsp;&nbsp;<a href="http://www.twitter.com/ea_impulse2011"><img src="images/twitterlogo.png" /></a>&nbsp;&nbsp;
+                            </td>
+                            <td>
+                                <div align="center"><a href="http://www.amazingcounter.com"><img border="0" src="http://cb.amazingcounters.com/counter.php?i=2950134&c=8850715" alt="home page tracking"></a><br>
+                                    </td>
+                                    </tr>
+                                    </table>
+
+                                </div>
+                                <div class="list">
+                                    
+             <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+            <script>
+            new TWTR.Widget({
+              version: 2,
+              type: 'list',
+              rpp: 30,
+              interval: 6000,
+              title: 'Techfest,RCET Bhilai(C.G.)',
+              subject: 'IMPULSEive tweets',
+              width: 250,
+              height: 300,
+              theme: {
+                shell: {
+                  background: '#0d0c0d',
+                  color: '#ffffff'
+                },
+                tweets: {
+                  background: '#ffffff',
+                  color: '#444444',
+                  links: '#b740c2'
+                }
+              },
+              features: {
+                scrollbar: true,
+                loop: false,
+                live: true,
+                hashtags: true,
+                timestamp: true,
+                avatars: true,
+                behavior: 'all'
+              }
+            }).render().setList('ea_impulse2011', '').start();
+            </script>
+
+
+
+                            <iframe src="http://www.facebook.com/plugins/recommendations.php?site=http%3A%2F%2Fwww.impulse2011.in&amp;width=250&amp;height=300&amp;header=true&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowTransparency="true"></iframe>
+
+
+                                    
+                                </div>
+                                </div>
+                                </div>
+                                <div id="footer">
+                                    <p>Copyright &copy;. All rights reserved. Design by <a href="http://www.impulse2011.in" target="_blank" title="">Webmasters: Narendra Soni, Rishabh Tripathi</a></p>																																																																		<div class="inner_copy"><a href="http://www.beautifullife.info/">beautiful</a><a href="http://www.grungemagazine.com/">grunge</a></div>
+                                </div>
+
+
+                                </body>
+                                </html>
